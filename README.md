@@ -1,3 +1,6 @@
+Sample application:
+==================================
+Try out the sample application on [Google Play](https://play.google.com/store/apps/details?id=com.app.kp)
 
 Reference
 ===================================  
