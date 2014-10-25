@@ -1,15 +1,15 @@
 
-Refarence
+Reference
+===================================  
+[Autoscrollviewpager](https://github.com/Trinea/android-auto-scroll-view-pager)
 
-autoscrollviewpager
+[CWAC-MergeAdapter](https://github.com/commonsguy/cwac-merge)
 
-CWAC-MergeAdapter
+[Sugared-list-animations](https://github.com/cuub/sugared-list-animations)
 
-CWAC-SackOfViewsAdapter
+[Jazzylistview](https://github.com/twotoasters/JazzyListView)
 
-nineoldandroids-2.4.0
-
-sugared-list-animations
+[Fadingactionbar](https://github.com/ManuelPeinado/FadingActionBar)
 
 volley
 
