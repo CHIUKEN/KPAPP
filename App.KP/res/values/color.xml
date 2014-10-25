@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="list_item_title">#fff</color>
+    <color name="list_background">#303030</color>
+    <color name="list_background_pressed">#992416</color>
+    <color name="list_divider">#272727</color>
+    <color name="counter_text_bg">#626262</color>
+    <color name="counter_text_color">#c5c4c4</color>
+    
+    <!-- photo item -->
+    <color name="black">#000000</color>
+    <color name="main_bg">#E3C7AB</color>
+    <color name="grid_item_bg">#F0F0F0</color>
+    
+    <!-- video item -->
+    <color name="genre">#666666</color>
+    <color name="year">#888888</color>
+    <color name="list_row_hover_start_color">#ebeef0</color>
+    <color name="list_row_hover_end_color">#ebeef0</color>
+     <color name="list_row_start_color">#ffffff</color>
+    <color name="list_row_end_color">#ffffff</color>
+    
+    <color name="even">#FFFFFF</color>
+    <color name="odd">#eeeeee</color>  
+    <color name="tangerine">#FFCC00</color>	
+    <color name="olive">#227700</color>
+    <color name="bule">#0066ff</color>	
+</resources>

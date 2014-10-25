@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="drawer_open">Open drawer</string>
+    <string name="drawer_close">close_drawer</string>
+    <string name="app_name">文哲典錄</string>
+    <string name="action_settings">資料來源</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="category_title">文章列表</string>
+    <string name="photo_title">相簿</string>
+    <string name="money_title">小額捐款</string>
+    <string name="media_title">影片</string>
+    <string name="muic_title">音樂</string>
+    <!-- Nav Drawer Menu Items -->
+    <string-array name="nav_drawer_items">
+        <item>最新消息</item>
+        <item>野生官網</item>
+        <item>文章類別</item>
+        <item>相簿</item>
+        <item>影片</item>
+        <item>競選經費查詢</item>
+        <item>FaceBook</item>
+    </string-array>
+
+    <!-- Nav Drawer List Item Icons -->
+    <!-- Keep them in order as the titles are in -->
+    <array name="nav_drawer_icons">
+        <item>@drawable/ic_home</item>
+        <item>@drawable/ic_people</item>
+        <item>@drawable/ic_photos</item>
+        <item>@drawable/ic_communities</item>
+        <item>@drawable/ic_pages</item>
+        <item>@drawable/ic_whats_hot</item>
+        <item>@drawable/ic_fb</item>
+    </array>
+
+    <!-- Content Description -->
+    <string name="desc_list_item_icon">Item Icon</string>
+    <!-- youtube error msg -->
+    <string name="error_player">There was an error initializing the YouTubePlayer (%1$s)</string>
+    <!-- video -->
+    <string name="video_title">標題：</string>
+    <string name="video_desc">說明：</string>
+    <string name="video_date">日期：</string>
+    <string name="home_title">選戰倒數</string>
+    
+    <string name="home_subtitle1">文章</string>
+    <string name="home_subtitle2">相簿</string>
+    <!-- article -->
+    <string name="article_subtitle">最後更新：</string>
+    <string name="reference_text">資料來源：</string>
+    <string name="reference_text1">柯文哲野生官網</string>
+	<string name="reference_link">http://unlimited.kptaipei.tw/</string>
+</resources>
