@@ -14,7 +14,10 @@ Reference
 
 [Fadingactionbar](https://github.com/ManuelPeinado/FadingActionBar)
 
+[http://www.androidhive.info/](http://www.androidhive.info/)
+
 volley
 
 YouTubeAndroidPlayerApi
 
+google analytics
